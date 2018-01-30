@@ -1,1 +1,4 @@
 Some text for example
+
+Version 1.0
+New change to file
