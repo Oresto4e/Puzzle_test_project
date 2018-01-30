@@ -2,3 +2,7 @@ Some text for example
 
 Version 1.0
 New change to file
+
+
+Version 1.1
+New text file was created by Forest Gump
